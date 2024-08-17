@@ -7,4 +7,14 @@
     "verification": "https://www.youtube.com/watch?v=S4uTxP2X748",
     "percentToQualify": 100,
     "password": "Free To Copy",
+    "records": 
+    [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
+
