@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=JhHP2SHt6Fc",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "tgof",
+            "link": "https://streamable.com/vldaqv",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
